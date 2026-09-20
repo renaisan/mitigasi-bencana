@@ -8,7 +8,7 @@ appbackendroutersscenarios.py
 requirements.txt
 models/
 routers/
-lib/
+/lib/
 appfrontend.html
 appfrontendsrc*
 Homepage.tsx.tsx
