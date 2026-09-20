@@ -1,0 +1,14 @@
+.venv/
+node_modules/
+dist/
+__pycache__/
+appbackendserver.py
+appbackendmodelsscenario.py
+appbackendroutersscenarios.py
+requirements.txt
+models/
+routers/
+lib/
+appfrontend.html
+appfrontendsrc*
+Homepage.tsx.tsx
